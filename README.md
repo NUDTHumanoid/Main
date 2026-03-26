@@ -11,9 +11,9 @@ Awesome Robotics：https://github.com/kiloreux/awesome-robotics.git
 注意：由于github的orginazition的空间有限制，因此，开源的只需要将代码fork到对应的仓库即可，具体步骤如下
 
 - 拉取代码
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
 
 - 本地修改
 为了防止魔改后最后改不回来，所以推荐切换分支修改
